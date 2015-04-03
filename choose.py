@@ -25,7 +25,7 @@ def intro():
     else:
         intro()
 
-################ Student A Functions #####################
+################ Noah Patterson Functions #####################
 def choice1():
     choice = simpledialog.askinteger("Choose wisely",
                                      "This is the next part of the story.  Now you must choose 1 or 2 again.")
