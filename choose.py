@@ -52,7 +52,11 @@ def choice2():
                             "You chose ok.  THE END")
     else:
         choice2()
+################ Travis funtions #####################
 
+
+
+        
 ################ Main #####################
 intro()
 
